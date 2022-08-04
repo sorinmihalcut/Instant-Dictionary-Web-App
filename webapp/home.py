@@ -15,9 +15,7 @@ class Home(page.Page):
         div = jp.Div(a=container, classes='bg-gray-200 h-screen p-2')
         jp.Div(a=div, text='This is the home page!', classes='text-4xl n-2 m-2')
         jp.Div(a=div, text="""
-              sacas asdlkassad aassfdsgfdhttfdfgsdfafdasdavdssadcascasdasdascasascasca
-              casdassadasdcascasadascascascacacascascascacascas s asdasca asasd asd asdasfas
-              asdasdasdasdasdasda sdasadsd asdafvsdtr das ads asdasdasfaeedasd asda awdada sdawd as dasdaw
+              ADD TEXT
               """, classes='text-lg')
         return wp
 

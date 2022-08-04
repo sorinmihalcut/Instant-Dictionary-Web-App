@@ -6,3 +6,4 @@ class Page(ABC):
     @abstractmethod
     def serve(self):
         pass
+
